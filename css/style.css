@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.font-small{
+    font-size: 0.5rem;
+    color: grey;
+}
+.google-play,.apple{
+    width: 5rem;
+}
+.apple{
+    width: 5.5rem;
+    height: 2.4rem;
+}
+.gradient{
+    background-image: linear-gradient(to right,blue,violet);
+}
+.background-image{
+    background-image: url("https://images.unsplash.com/photo-1599009432031-ba5d3a794aec?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80");
+    
+    background-repeat: no-repeat;
+}
+.download{
+    border-radius: 1.5rem;
+    border: 1px solid white;
+}
+.stop-waiting{
+    height: 30rem;
+    
+    
+}
+.pad{
+    padding: 10rem;
+}
